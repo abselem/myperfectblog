@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'myperfectblog',
         'USER': 'postgres',
-        'PASSWORD':'02222117a',
+        'PASSWORD':'alan2001',
         'HOST': 'localhost',
         'PORT': '5432',
     }
